@@ -9,11 +9,11 @@ I contest that while an open-source tool would be ideal, one cannot confine them
 
 When choosing a tool for communication on an open-source project, it is my belief that one must act with open-source ideals, such as the 4 freedoms, in mind, but that person must not neglect better options as they might do more for the project. Therefore I propose the following:
 
-*1. If the best is open, go open
+* 1. If the best is open, go open
 
-*2. If there is a tie between the closed and open options, go open
+* 2. If there is a tie between the closed and open options, go open
 
-*3. If the best option is closed, consider it, use it  - but prepare for flak 
+* 3. If the best option is closed, consider it, use it  - but prepare for flak 
 
 Yes, I think I can tell what you’re thinking, if we don’t act with the ideals on which open-source was built, we are doing a disservice to the community. This is true, but it is not forever - just until a better, open-source tool comes along to replace it.
 
