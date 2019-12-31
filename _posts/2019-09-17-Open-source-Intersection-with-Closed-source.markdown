@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Open-source Intersection with Closed-source"
 date:   2019-09-17 6:47:00 -0500
 categories: seminar closed-source open-source
