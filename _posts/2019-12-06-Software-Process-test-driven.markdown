@@ -4,7 +4,7 @@ title:  "Software Processes - Test-driven"
 date:   2019-12-06 12:30:00 -0500
 categories: seminar test-driven software process
 ---
-Established in the recent discussion of Software Process Models, there is an array of models by which a project can be developed. From the simple, code-and-fix approach used by many computer science students with a deadline to the more intricate spiral technique which encourages cyclical development. While many of the models were covered in class, due to time constraints, we did not manage to cover the process of test-driven development. The purpose of this blog is to provide an overview of this approach.
+Established in the recent discussion of Software Process Models, there is an array of models by which a project can be developed. From the simple code-and-fix approach used by many computer science students with a deadline to the more intricate spiral technique which encourages cyclical development. While many of the models were covered in class, due to time constraints, we did not manage to cover the process of test-driven development. The purpose of this blog is to provide an overview of this approach.
 
 ### What is it?
 
