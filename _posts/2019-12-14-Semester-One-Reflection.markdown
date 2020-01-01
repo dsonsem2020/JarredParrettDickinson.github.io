@@ -5,9 +5,9 @@ date:   2019-12-14 2:45:00 -0500
 categories: seminar civics reflection
 ---
 
-![Civics](/assets/HFOSS.jpg)
-
 In the planning process of this blog post, I found that many of the themes stood out, but, for my experience, the concepts of unfamiliarity and democratic principles stood above all others.
+
+![Civics](/assets/HFOSS.jpg)
 
 ## CIVIC DISPOSITION
 
