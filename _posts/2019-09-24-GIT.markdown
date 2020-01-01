@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'Git' - Linus Torvald on naming Git"
+date:   2019-09-24 6:59:00 -0500
+categories: seminar GIT
+---
+
+As a young student in computer science, the only time that I have heard of the term SVN is in the context of colleagues reminiscing of systems before Git and Github. Admittedly, I, embarrassingly, say that at the start of my junior year of college, I was under the impression that Git was created by Github itself. However, you probably knew that as if you’re reading this painfully limited scope blog.
+
+The story of Git is a story of quite the development which I hope to shed light on in this post. As noted on the Git-SCM website, the story of Git itself begins with the creation of the Linux Kernel itself. As Linus Torvald worked on the creation of the Linux Kernel, he employed the decentralized-version-control-system by the name of BitKeeper. [Git-SCM](https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git) reports that the relationship broke down leading to the revoking of the free-use of the tool to the Linux community. [Info World](https://www.infoworld.com/article/2670360/linus-torvalds--bitkeeper-blunder.html) describes that this originated with the violation of a non-compete clause as a member of the team working on the Linux Kernel wrote a tool, by reverse-engineering the GitKeeper code, to access the repository.
+
+At this point, Linus went out to create a tool that achieves decentralized source control and much more. He set out to create a system that was faster, simple, supported non-linear development, scalable and full distributable. With its wide adoption today, it is safe to say that was achieved. Upon its release in 2005, it was mainly written in C, as noted by the [Open Hub](https://www.openhub.net/p/git) analysis. Today, it maintains its roots in C but has the inclusion of python, Perl, and TCL.
+
+Three years after the creation of Git, Github came along. With its introduction at the easiest tool and, as claimed by them, the tool for making “git repository hosting no longer a pain in the ass” and for interaction with the Git tools created by Torvald. For a bit of a time capsule, take a look back at the original [Github website](http://web.archive.org/web/20080705211438/http://github.com/). And the rest was history .. well almost. Like the post above, does this pose the same problem as Slack - perhaps, but that is a conversation for another time.
+
+
+![architecture](/assets/github.png)
