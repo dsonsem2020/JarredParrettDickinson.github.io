@@ -4,18 +4,18 @@ title:  "Semester One Reflection"
 date:   2019-12-14 2:45:00 -0500
 categories: seminar civics reflection
 ---
-Inline-style:
+
 ![Civics of HFOSS](assets/HFOSS.jpeg "Logo Title Text 1")
 
 In the planning process of this blog post, I found that many of the themes stood out, but, for my experience, the concepts of unfamiliarity and democratic principles stood above all others.
 
-##CIVIC DISPOSITION
+## CIVIC DISPOSITION
 
 With consideration of civic dispositions, many of the points seemed relevant and existing before the project within my personal experience; however, the point of willingness to engage with the unfamiliar stood out as something in my personal experience that I had not come across. In the scope of working with a FOSS project, this is an interesting theme in that it can both be representative of the project as a whole but also individual issues in the project. With respect to Jenkins, the decision to work in this project was a practice in the unfamiliar. The selection process consisted of the analysis of an array of projects from ones that had been contributed to by previous students to engaging with an entirely new project. Jenkins fell in the second category - that is, no previous student group had worked on Jenkins. When considering it, we had to ask ourselves to understand the requirements of the project, what were the languages that it employs, was it even viable for us to work on, and could we actually do it? Clearly, this was a thought-provoking process and uncomfortable as the decision we made at the beginning would remain with us for the rest of the year.
 
 With respect to an individual Jira or task in the project. The theme of unfamiliarity again arose. When deciding which Jira we wanted to work on, it was a practice in trying to get up to speed and resolve an issue from often nothing more than a stack trace. This process left us with a codebase for a platform we barley knew and little information on where to look and how to resolve an issue. In my opinion, it was this that was the most significant practice in civic disposition development.
 
-##CIVIC ENGAGEMENT
+## CIVIC ENGAGEMENT
 
 While civic disposition had its own set of challenges, the civic engagement came portion came with another set of challenges. This aspect, again, took a fascinating perspective with respect to both workings internally with our team and the larger Jenkins community. As much of this semester has been spent getting up to speed on this project, we have not had much in terms of working with the greater community; rather, much of our work has been learning to work as a unit within our team. In that, it has been the process of learning the application of democratic principles to work in groups.
 
