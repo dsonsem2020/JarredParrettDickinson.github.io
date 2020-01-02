@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stumble to 100 Catch-up 0"
+title:  "Stumble to 100 - 0"
 date:   2020-01-02 11:15:00 -0500
 categories: running 100-mile training
 ---
