@@ -9,7 +9,7 @@ Well, this is the first of many to come. In about 85 days, I will be undertaking
 
 ![Greenbrier100](/assets/Greenbrier100.png)
 
-The journey to this point has been one of what I would call exponential growth. It started a little over a year ago with a spontaneous half-marathon on trail and then escalated to a 50k. The first felt like an accident - like nothing that I would never do again; but, like so many others, it was not long before I signed up for another. That was the [Ironmasters Challenge](https://ironmasterschallenge.com/158-2/) - a grueling 50k and my first experience with distance over a marathon.
+The journey to this point has been one of what I would call exponential growth. It started a little over a year ago with a spontaneous half-marathon on trail and then escalated to a 50k. The first felt like an accident - like nothing that I would ever do again; but, like so many others, it was not long before I signed up for another. That was the [Ironmasters Challenge](https://ironmasterschallenge.com/158-2/) - a grueling 50k and my first experience with distance over a marathon.
 
 ![IronMasters](/assets/IronMasters.png)
 
